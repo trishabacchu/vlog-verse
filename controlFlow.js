@@ -46,6 +46,7 @@ while(count>=0){
 
 let colors=["red","blue","green"]
 for(let i=0;i<colors.length;i++){
+    
     console.log(colors[i])
 }
 
